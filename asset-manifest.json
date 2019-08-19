@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bushu/static/css/main.685dea8f.chunk.css",
+    "main.js": "/react-bushu/static/js/main.17fca6c3.chunk.js",
+    "main.js.map": "/react-bushu/static/js/main.17fca6c3.chunk.js.map",
+    "runtime~main.js": "/react-bushu/static/js/runtime~main.d25e4b4b.js",
+    "runtime~main.js.map": "/react-bushu/static/js/runtime~main.d25e4b4b.js.map",
+    "static/js/2.ed64165c.chunk.js": "/react-bushu/static/js/2.ed64165c.chunk.js",
+    "static/js/2.ed64165c.chunk.js.map": "/react-bushu/static/js/2.ed64165c.chunk.js.map",
+    "index.html": "/react-bushu/index.html",
+    "precache-manifest.9005152ed93f8cc219e6494e4b63eed1.js": "/react-bushu/precache-manifest.9005152ed93f8cc219e6494e4b63eed1.js",
+    "service-worker.js": "/react-bushu/service-worker.js",
+    "static/css/main.685dea8f.chunk.css.map": "/react-bushu/static/css/main.685dea8f.chunk.css.map"
+  }
+}
